@@ -22,5 +22,5 @@ WHITE='\033[1;37m'
 clear
 echo -e "${RED}▀█▀ █░█ █▀▀ █▀█ ▄▀█ █▄▀${NOCOLOR}"
 echo -e "░█░ █▀█ ██▄ █▀▀ █▀█ █░█"
-echo -e "          ${GREEN}by Ramonymous${NOCOLOR}"
+echo -e "          ${GREEN}by RB${NOCOLOR}"
 echo -e "-----------------------"
